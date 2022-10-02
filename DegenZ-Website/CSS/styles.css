@@ -1,0 +1,174 @@
+h2{
+  text-align: center;
+  color: #043449;
+  padding: 0 0 0 5px;
+}
+h3{
+  color: #fff;
+}
+p{
+  color: #8f8f8f;
+}
+.benefit li{
+  color: #fff;
+}
+.card-text{
+  text-align: center;
+}
+.collabcollage{
+  display: flex;
+  justify-content: center;
+}
+.collabimg{
+  width: 15%;
+  padding:2% 2% 5%;;
+}
+.collab-title{
+  font-size: 2.5rem;
+}
+#Contact-us{
+  text-align: center;
+}
+#room{
+  margin: 2% 15%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #043449;
+}
+i{
+  color:#F25F5C;
+  padding-bottom: 20px;
+}
+.benefit-row{
+  font-size: 1rem;
+  padding: 0.7rem 2rem;
+}
+.benefit{
+  display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+#benefits{
+background-color:#043449;
+}
+
+.container-fluid{
+  padding: 3% 15% ;
+}
+i.fa-brands{
+  color: grey;
+}
+.fa-brands:hover{
+  color: #F25F5C;
+}
+.focus{
+color: #F25F5C;
+}
+.highlight{
+  color:lightblue;
+}
+.Heading{
+  padding-top: 4rem;
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color:#fff;
+}
+.feature-box{
+  text-align: center;
+  padding: 0 20px;
+}
+#founders{
+  background-color:#043449;
+}
+#introduction{
+  background-color: #fff;
+  text-align: center;
+    padding: 5% 5% 0;
+    margin: 0 5%;
+  }
+  .nav-item {
+    padding: 0 18px;
+  }
+.social-icon{
+  font-size: 4rem;
+  margin: 2% 3%;
+}
+  #Title{
+    background-color:#F25F5C;
+  }
+  .navbar-brand{
+    width: 5%;
+  }
+  .Logo-3{
+    width:80%;
+}
+  .mane{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+  }
+  .slideshow{
+    width: 50%;
+    padding: 15% 5% 15%;
+    border-radius: 15%;
+  }
+  .slideshow-parent{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .benefit-parent{
+    display: flex;
+    justify-content: center;
+    margin: 5% 15% 5% 15%;
+  }
+  #OurStory{
+  text-align: center;
+  padding: 5% 5% 0;
+  margin: 0 5%;
+  }
+  #features{
+    display: flex;
+    justify-content: center;
+    padding:0 15%;
+  }
+  @media (max-width: 1028px) {
+.mane{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  #features{
+    display: flex;
+    flex-direction: column;
+    padding:0 15%;
+  }
+  .collabcollage{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+  }
+  .collabimg{
+    width: 50%;
+    padding: 2% 3%;
+  }
+  .Heading{
+    text-align: center;
+  }
+  #benefits{
+    display: flex;
+    flex-direction: column;
+  }
+  .slideshow{
+    width: 0;
+    height: 0;
+  }
+  .benefit-parent{
+    margin: 5% 5%;
+  }
+}
